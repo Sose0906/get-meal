@@ -1,0 +1,43 @@
+.container-inner
+{
+    width: 60%;
+    padding: 30px;
+    font-family: cursive;
+
+}
+.titles
+{
+    padding: 30px;
+    font-family: cursive;
+}
+.titles p
+{
+    font-size: 19px;
+}
+.container-inner img
+{
+    width: 500px;
+    height: 500px;
+}
+.inner-title
+{
+    font-size: 30px;
+    margin-top: 40px;
+}
+.ingredients
+{
+    font-size: 19px;
+    line-height: 42px;
+}
+.method
+{
+    font-size: 19px;
+    line-height: 38px;
+}
+@media (max-width: 1024px) {
+.container-inner
+{
+    width: 100%;
+}
+
+}
